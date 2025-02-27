@@ -1,0 +1,49 @@
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\Flappy Birds.exe.config
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\Flappy Birds.exe
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\Flappy Birds.pdb
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy_Birds.Form1.resources
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy_Birds.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.exe
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.pdb
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy_Birds.giris.resources
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Data.v18.1.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Printing.v18.1.Core.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Sparkline.v18.1.Core.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Utils.v18.1.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.XtraEditors.v18.1.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Pdf.v18.1.Core.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Data.v18.1.xml
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Printing.v18.1.Core.xml
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Sparkline.v18.1.Core.xml
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Utils.v18.1.xml
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.XtraEditors.v18.1.xml
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\DevExpress.Pdf.v18.1.Core.xml
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\de\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\es\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ja\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ru\DevExpress.Data.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\de\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\es\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ja\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ru\DevExpress.Printing.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\de\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\es\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ja\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ru\DevExpress.Sparkline.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\de\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\es\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ja\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ru\DevExpress.Utils.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\de\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\es\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ja\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ru\DevExpress.XtraEditors.v18.1.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\de\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\es\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ja\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\bin\Debug\ru\DevExpress.Pdf.v18.1.Core.resources.dll
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.exe.licenses
+C:\Users\Lenovo\Desktop\C# Projelerim\Flappy Birds\Flappy Birds\obj\Debug\Flappy Birds.csproj.CopyComplete
